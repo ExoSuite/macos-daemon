@@ -24,7 +24,7 @@
     <key>UserName</key>
     <string>exosuite</string>
     <key>GroupName</key>
-    <string>exosuite</string>
+    <string>staff</string>
     <key>InitGroups</key>
     <true/>
   </dict>
