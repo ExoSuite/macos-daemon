@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-if [[ $(ps -ef | grep -v grep | grep atlassian-bamboo&&gent | wc -l) -le 0 ]]
+if [[ $(ps -ef | grep -v grep | grep atlassian-bamboo-agent | wc -l) -le 0 ]]
 then
 
 # start bamboo agent
