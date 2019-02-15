@@ -27,5 +27,7 @@
     <string>staff</string>
     <key>InitGroups</key>
     <true/>
+    <key>SessionCreate</key>
+    <true />
   </dict>
 </plist>
